@@ -1,0 +1,11 @@
+git config --global user.name "Aryaman sharma"
+
+git config --global user.email "200314arya@gmail.com"
+
+
+git init 
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Aryaman200314/Lecture1-CipherSchools.git
+git push -u origin main
